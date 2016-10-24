@@ -1,0 +1,19 @@
+{
+  "name": "iopackege",
+  "version": "1.0.0",
+  "description": "dependencies file",
+  "main": "Callback_1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ionufryk/Protractor1.git"
+  },
+  "author": "IgorO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ionufryk/Protractor1/issues"
+  },
+  "homepage": "https://github.com/ionufryk/Protractor1#readme"
+}
